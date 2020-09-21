@@ -1,6 +1,6 @@
 # fzf-git
 
-Use [fzf](https://github.com/junegunn/fzf) to complete git stuff using `^G`
+A zsh widget that uses [fzf](https://github.com/junegunn/fzf) to complete git stuff using `^G`
 
 ## Installation
 
