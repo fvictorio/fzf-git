@@ -1,8 +1,10 @@
 # fzf-git
 
-Use fzf to complete git stuff using `^G`
+Use [fzf](https://github.com/junegunn/fzf) to complete git stuff using `^G`
 
 ## Installation
+
+You need to have [fzf](https://github.com/junegunn/fzf) installed. Then:
 
 ### Antigen
 
