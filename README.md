@@ -10,7 +10,7 @@ Use fzf to complete git stuff using `^G`
 
 ### Manually
 
-Clone this repository and add source it from your `zshrc`.
+Clone this repository and source it from your `zshrc`.
 
 ## Features
 
